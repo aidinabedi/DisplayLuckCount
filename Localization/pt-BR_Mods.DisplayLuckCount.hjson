@@ -1,0 +1,6 @@
+InfoDisplays: {
+	LuckInfoDisplay: {
+		DisplayName: Contagem de sorte
+		DisplayValue: "{0} Sorte"
+	}
+}

@@ -1,0 +1,6 @@
+InfoDisplays: {
+	LuckInfoDisplay: {
+		DisplayName: Удача
+		DisplayValue: "{0} удачи"
+	}
+}

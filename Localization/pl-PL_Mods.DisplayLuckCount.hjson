@@ -1,0 +1,6 @@
+InfoDisplays: {
+	LuckInfoDisplay: {
+		DisplayName: Pokazuje szczęście gracza
+		DisplayValue: "{0} Szczęśliwy"
+	}
+}

@@ -1,0 +1,4 @@
+displayName = Display Luck Count
+author = sexual_lobster
+version = 1.0.1
+side = Client

@@ -1,0 +1,6 @@
+InfoDisplays: {
+	LuckInfoDisplay: {
+		DisplayName: Conte di fortuna
+		DisplayValue: "{0} Fortuna"
+	}
+}

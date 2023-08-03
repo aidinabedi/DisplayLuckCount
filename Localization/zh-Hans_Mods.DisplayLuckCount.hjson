@@ -1,0 +1,6 @@
+InfoDisplays: {
+	LuckInfoDisplay: {
+		DisplayName: 幸运数字
+		DisplayValue: "{0} 机会"
+	}
+}
